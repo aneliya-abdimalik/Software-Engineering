@@ -11,20 +11,16 @@ This repository contains the deliverables for the term project on the Koster Sea
 
 ## Project Deliverables
 
-1. **Software Requirements Specification (SRS)** (`SRS/`)
+1. **Software Requirements Specification (SRS)** 
    - **Standard:** ISO/IEC/IEEE 29148-2018  
    - **Contents:** System purpose, scope, functional & non-functional requirements, external interfaces, use cases, data models  
-   - **Artifact:** `CENG350_SRS_Group_90.pdf` (final SRS)
+   - **Artifact:** `SRS.pdf` 
 
-2. **Software Architecture Description (SAD)** (`SAD/`)
+2. **Software Architecture Description (SAD)** 
    - **Standard:** ISO/IEC/IEEE 42010-2022  
    - **Contents:** Architectural viewpoints (functional, information, development, deployment), component diagrams, interface specifications, design rationale  
-   - **Artifact:** `CENG350_SAD_Group_90.pdf` (final SAD)
+   - **Artifact:** `SAD.pdf` 
 
-3. **Project Specification** (`specification/`)
-   - **Description:** Original course project spec v6.0 detailing system context, requirements, and guidelines.
-   - **Artifact:** `CENG350-2025_Spring_Project_Specification_v6.0.pdf`
-
-4. **Background Research** (`research/`)
+3. **Background Research** 
    - **Description:** Foundational paper on KSO’s citizen science & machine learning approach.  
    - **Artifact:** `Anton_et_al_2021_KSO_approach.pdf`
